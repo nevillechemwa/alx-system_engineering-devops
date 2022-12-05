@@ -1,2 +1,2 @@
 #!/bi/bash
-cat ls -lt | head
+cat ls -t1 | head -n 10
