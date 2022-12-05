@@ -1,2 +1,2 @@
-#!/bi/bash
+#!/bin/bash
 cat ls -t1 | head -n 10
